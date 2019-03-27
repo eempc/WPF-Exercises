@@ -1,0 +1,15 @@
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\TreeViewListView.csprojAssemblyReference.cache
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\MainWindow.g.cs
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\App.g.cs
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\TreeViewListView_MarkupCompile.cache
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\TreeViewListView_MarkupCompile.lref
+D:\Projects\TreeViewListView\TreeViewListView\bin\Debug\TreeViewListView.exe.config
+D:\Projects\TreeViewListView\TreeViewListView\bin\Debug\TreeViewListView.exe
+D:\Projects\TreeViewListView\TreeViewListView\bin\Debug\TreeViewListView.pdb
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\MainWindow.baml
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\TreeViewListView.g.resources
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\TreeViewListView.Properties.Resources.resources
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\TreeViewListView.csproj.GenerateResource.cache
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\TreeViewListView.csproj.CoreCompileInputs.cache
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\TreeViewListView.exe
+D:\Projects\TreeViewListView\TreeViewListView\obj\Debug\TreeViewListView.pdb
